@@ -101,7 +101,7 @@ Open `index.html` in your preferred browser.
 
 ## 👀 Screenshot
 
-![Project Preview] (./Minha resolução/screenshot - demo.png)
+![Project Preview] ([./Minha resolução/screenshot - demo.png](https://github.com/GunnarOliveira/Rafatorando-Challenger/blob/main/Minha%20resolu%C3%A7%C3%A3o/screenshot%20-%20demo.png?raw=true))
 
 ---
 
