@@ -101,7 +101,7 @@ Open `index.html` in your preferred browser.
 
 ## 👀 Screenshot
 
-![Project Preview](./Minha resolução/screenshot - demo.png)
+![Project Preview] (./Minha resolução/screenshot - demo.png)
 
 ---
 
