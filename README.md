@@ -101,7 +101,7 @@ Open `index.html` in your preferred browser.
 
 ## 👀 Screenshot
 
-<img src="/screenshot - demo.png">
+![Design preview for the project](/screenshot-demo.png)
 
 ---
 
