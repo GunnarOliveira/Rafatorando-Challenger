@@ -107,7 +107,7 @@ Open `index.html` in your preferred browser.
 
 ### Responsive Mobile Layout
 
-![Design preview for the project](/screenshot-demo-responsive.png-demo.png)
+![Design preview for the project](/screenshot-demo-responsive.png)
 
 ---
 
