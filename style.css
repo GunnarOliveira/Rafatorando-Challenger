@@ -13,6 +13,9 @@ body {
 img {
   display: block;
   max-width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: top right;
 }
 ul {
   list-style: none;
@@ -57,9 +60,11 @@ footer {
   padding: 2.5rem;
   background-color: #ffffff;
 }
-.introducao {
+article {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
+}
+.introducao {
   background-color: #ffffff;
   position: relative;
 }
@@ -91,8 +96,6 @@ footer {
   background-color: #a21307;
 }
 .vantagens-container {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
   align-items: center;
 }
 .vantagens-titulo {
@@ -128,4 +131,33 @@ footer {
 }
 .vantagem-item p {
   grid-column: 2;
+}
+
+@media (max-width: 1000px) {
+  body {
+    padding-top: 1.25rem;
+    gap: 2rem;
+  }
+  article {
+    justify-items: center;
+  }
+  header {
+    gap: 1.75rem;
+  }
+  nav ul {
+    flex-wrap: wrap;
+    justify-content: center;
+    flex: 1;
+  }
+  .introducao-conteudo {
+    justify-items: start;
+    text-align: start;
+  }
+  .vantagens-titulo {
+    text-align: center;
+    padding: 1.25rem;
+  }
+  .linha {
+    display: none;
+  }
 }
