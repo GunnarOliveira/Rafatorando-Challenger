@@ -75,7 +75,6 @@ This project was developed to review and practice:
 - Clean and readable CSS.
 - Visual hierarchy.
 
-> **Note:** This project is a study exercise and is **not responsive** at the current stage.
 
 ---
 
