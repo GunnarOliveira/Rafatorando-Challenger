@@ -136,7 +136,7 @@ article {
 @media (max-width: 1000px) {
   body {
     padding-top: 1.25rem;
-    gap: 2rem;
+    gap: 1.5rem;
   }
   article {
     justify-items: center;
@@ -147,7 +147,6 @@ article {
   nav ul {
     flex-wrap: wrap;
     justify-content: center;
-    flex: 1;
   }
   .introducao-conteudo {
     justify-items: start;

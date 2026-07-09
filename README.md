@@ -99,16 +99,20 @@ Open `index.html` in your preferred browser.
 
 ---
 
-## 👀 Screenshot
+## 👀 Screenshots:
+
+### Desktop Layout
 
 ![Design preview for the project](/screenshot-demo.png)
+
+### Responsive Mobile Layout
+
+![Design preview for the project](/screenshot-demo-responsive.png-demo.png)
 
 ---
 
 ## 🚀 Next Steps
 
-- Add responsive layout.
-- Improve accessibility.
 - Refine spacing and typography.
 - Optimize the CSS architecture.
 
